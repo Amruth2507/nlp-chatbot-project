@@ -1,0 +1,23 @@
+# Python / Environment
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/
+*.parquet
+*.jsonl.gz
+*.npy
+
+# Outputs
+outputs/*.csv
+outputs/*.json
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/

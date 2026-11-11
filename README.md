@@ -29,7 +29,7 @@ To run this pipeline locally, ensure you have Python 3.9+ installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/nlp-chatbot-project.git
+   git clone https://github.com/Amruth2507/nlp-chatbot-project.git
    cd nlp-chatbot-project
    ```
 
